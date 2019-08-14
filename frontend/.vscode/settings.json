@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/3f2074b3-68c7-4612-8fea-ff98b35045c4/resourceGroups/MarketingCampaigns/providers/Microsoft.Web/sites/marketingdashboard",
+    "appService.deploySubpath": ""
+}
